@@ -5,6 +5,7 @@ function basicTeenager(age) {
     return undefined;
   }
 }
+console.log(basicTeenager(13))
 
 function teenager(age) {
 
