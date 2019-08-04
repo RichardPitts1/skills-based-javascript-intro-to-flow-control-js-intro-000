@@ -42,4 +42,4 @@ function switchAge(age) {
         return "You have an age";
   }
 }
-console.log(switchAge(12)):
+console.log(switchAge(12));
