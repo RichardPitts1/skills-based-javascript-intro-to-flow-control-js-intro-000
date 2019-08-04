@@ -6,7 +6,8 @@ function basicTeenager(age) {
   }
 }
 console.log(basicTeenager(13))
-
+console.log(basicTeenager(19))
+console.log(basicTeenager(20))
 function teenager(age) {
 
 }
